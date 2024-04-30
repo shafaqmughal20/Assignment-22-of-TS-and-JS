@@ -1,2 +1,2 @@
 # Assignment-22-of-TS-and-JS
-typescript Q-22
+ Q-22 Ts/Js and Node.js of 45 Assignment 
